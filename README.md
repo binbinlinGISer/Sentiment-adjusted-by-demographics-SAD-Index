@@ -1,2 +1,6 @@
 # Sentiment-adjusted-by-demographics-SAD-Index
-Unbiased measurement for public sentiment toward COVID-19 based on Twitter data, the Sentiment Adjusted by Demographics (SAD) index, in the U.S. in 2020 and 2021
+- The dataset containing Sentiment Adjusted by Demographics (SAD) index provides an impartial measurement of public sentiment towards COVID-19 using Twitter data. For further information, please refer to the paper titled "Sensing the Pulse of the Pandemic: Geovisualizing the Demographic Disparities of Public Sentiment toward COVID-19 through Social Media".
+
+- The SAD index data is available to the public and includes daily, weekly, and monthly SAD indxes at the state level in the U.S. for the years 2020 and 2021.
+
+- If you utilize this dataset, kindly cite the aforementioned paper.
