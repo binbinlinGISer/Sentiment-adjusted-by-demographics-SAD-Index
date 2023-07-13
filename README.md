@@ -3,4 +3,6 @@
 
 - The SAD index data is available to the public and includes daily, weekly, and monthly SAD indexes at the state level in the U.S. for the years 2020 and 2021.
 
+- NaN indicates that there were no COVID-19-related tweets posted in the corresponding state and time period.
+
 - If you utilize this dataset, kindly cite the aforementioned paper.
